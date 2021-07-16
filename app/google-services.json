@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694907645021",
+    "firebase_url": "https://myhealthawareness-app-bf351.firebaseio.com",
+    "project_id": "myhealthawareness-app-bf351",
+    "storage_bucket": "myhealthawareness-app-bf351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694907645021:android:c26727b073e2c88b07b1b4",
+        "android_client_info": {
+          "package_name": "com.example.myhealthawarenessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694907645021-mkssaljuk604olqm57qj7ieknie6dhja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhealthawarenessapp",
+            "certificate_hash": "2f46441937a0a0cb07196db665e9749692a59556"
+          }
+        },
+        {
+          "client_id": "694907645021-p2d76qdj3rv60td8nc6h9tr010g6nri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpHQHwRGFc9M5-nljYJCgWu8zyL2LwhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694907645021-p2d76qdj3rv60td8nc6h9tr010g6nri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

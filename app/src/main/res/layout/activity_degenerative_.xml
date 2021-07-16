@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Degenerative_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Alzheimer"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/alzheimer"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingTop="10dp"
+            android:text="@string/alz_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/alz_symptoms"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/alz_causes"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/alz_treatment"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Cancer"
+            android:textColor="@android:color/background_dark"
+            android:textSize="30dp"
+            android:paddingTop="10dp"
+            android:textStyle="bold|normal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:src="@drawable/cancer" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/cancer_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/cancer_symptoms"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/cancer_causes"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/cancer_treatment"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Cystic Fibrosis"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="30dp"
+            android:textStyle="bold|normal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cristicfibrosis"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/cystic_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/cystic_symptoms"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/cancer_causes"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/cystic_treatment"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="4.Charcot Marie Tooth"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/charcot"
+            android:layout_marginTop="60dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/charcot_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/charcot_symptoms"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/charcot_causes"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/charcot_treatment"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="more..."
+            android:textSize="20dp"
+            android:id="@+id/degsite"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

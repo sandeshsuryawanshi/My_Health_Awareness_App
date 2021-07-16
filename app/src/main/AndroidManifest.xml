@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myhealthawarenessapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo1"
+        android:label="MyHealthAwarenessApp"
+        android:roundIcon="@drawable/logo1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".devolopedby"
+            android:label="About Us"
+            android:parentActivityName=".AboutUsActivity"></activity>
+        <activity
+            android:name=".Infectious_Activity"
+            android:label="Infectious  Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".Contigious_Activity"
+            android:label="Contigious  Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".Skin_Activity"
+            android:label="Skin  Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".Degenerative_Activity"
+            android:label="Degenerative  Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".Deficiency_Activity"
+            android:label="Deficiency Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".AboutUsActivity"
+            android:parentActivityName=".FirstPage" />
+        <activity
+            android:name=".PhysicologicalActivity"
+            android:label="Physicological  Diseases"
+            android:parentActivityName=".AboutUsActivity" />
+        <activity
+            android:name=".RegisterActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:parentActivityName=".FirstPage"></activity>
+        <activity android:name=".FirstPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

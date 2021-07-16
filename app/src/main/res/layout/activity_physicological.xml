@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhysicologicalActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Antexity"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/antexity"
+            android:layout_marginTop="60dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/ant_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/ant_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/ant_ca"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/ant_tre"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Depression"
+            android:textSize="30dp"
+            android:paddingTop="10dp"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:src="@drawable/depres" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/dep_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/dep_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/dep_ca"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/dep_tre"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Bipolar Disorders"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="30dp"
+            android:textStyle="bold|normal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bipolar"
+            android:paddingTop="10dp"
+
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/bip_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/bip_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/bip_ca"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/bip_tre"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="4.Schzopharnia"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schzo"
+            android:layout_marginTop="60dp"
+            android:paddingTop="10dp"
+
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/sch_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/sch_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/sch_ca"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="Treatments"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/sch_tre"/>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="More...."
+    android:textSize="20dp"
+    android:layout_gravity="center"
+    android:id="@+id/physite"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

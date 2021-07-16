@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Deficiency_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Rickets Tetany "
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rickettetany"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/rec_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/rec_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/rec_cau"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/rec_tre"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Iodine Deficiency"
+            android:textSize="30dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:src="@drawable/iodinedeficiency" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/io_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="@string/io_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textStyle="bold|normal"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/io_cau"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/io_tre"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Iron Deficiency"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="30dp"
+            android:textStyle="bold|normal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/irondeficiency"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/iron_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/iron_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:text="@string/iron_cau"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/iron_tre"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="4.Zink Deficiency"
+            android:textStyle="bold|normal"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/zinkdeficiency"
+            android:layout_marginTop="60dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Introduction"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/zink_intro"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Signs and Symptoms"
+            android:textSize="20dp"
+            android:textStyle="bold|normal"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/zink_sign"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Causes"
+            android:textStyle="bold|normal"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:paddingLeft="10dp"
+            android:text="@string/zink_cau"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:text="Treatments"
+            android:textStyle="bold|normal"
+            android:textSize="20dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textColor="@android:color/background_dark"
+            android:layout_height="wrap_content"
+            android:text="@string/zink_sign"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="more..."
+            android:textSize="20dp"
+            android:id="@+id/defsite"
+            android:layout_gravity="center"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

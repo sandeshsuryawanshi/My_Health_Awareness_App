@@ -1,0 +1,773 @@
+<resources>
+    <string name="app_name" translatable="false">Health App</string>
+    <string name="ant_intro" translatable="false">
+Ever wondered why you were trembling before your exam, or why your palms got sweaty before that job interview? \n These anxious feelings are a natural way for the body to prepare itself for an important event. You would have also noticed how you started to calm down once the event was under way; you started to breathe easier and your heart stopped thumping. Such an anxiety actually helps us perform better as it makes us more alert.
+However, some people experience anxiety or anxiety attacks for no apparent reason. \n If you find it hard to control your worries and if these constant feelings of anxiety affect your ability to go about your daily activities, then it might be a case of an anxiety disorder.
+
+    </string>
+
+    <string name="ant_sign" translatable="false">
+        •	Increased heart rate and heavy breathing\n
+•	Increased muscle tension\n
+•	Tightening sensation in the chest.\n
+•	Unsubstantiated and growing worries, and restlessness.\n
+•	Obsessing over needless things leading to compulsive behavior\n
+•  Sense of impending doom or danger.\n
+•  Fear of loss of control or death.\n
+•  Rapid, pounding heart rate.\n
+•  Sweating.\n
+•  Trembling or shaking.\n
+•  Shortness of breath or tightness in your throat\n
+•  Chills.\n
+
+
+    </string>
+
+    <string name="ant_ca" translatable="false"> •	Heart disease.\n
+•	Diabetes.\n
+•	Thyroid problems, such as hyperthyroidism.\n
+•	Respiratory disorders, such as chronic obstructive pulmonary disease (COPD) and asthma.\n
+•	Drug misuse or withdrawal.\n
+•	Withdrawal from alcohol, anti-anxiety medications (benzodiazepines) or other medications.\n
+•	Chronic pain or irritable bowel syndrome.\n
+
+
+    </string>
+
+    <string name="ant_tre" translatable="false">Self-care.\n
+Avoid alcohol, Reduce caffeine intake, Physical exercise, Stress management, Quitting smoking,
+        Relaxation techniques and Healthy diet.\n
+Therapies :\n
+Cognitive behavioral therapy, Meditation and Psychotherapy.
+
+Medications:\n
+Selective Serotonin Reuptake Inhibitor (SSRI), Anxiolytic, Antidepressant, Sedative and Nerve pain medication.\
+
+Specialists:\n
+Clinical Psychologist, Psychiatrist and Primary Care Provider (PCP).\n
+Consult a doctor for medical advice.\n
+Sources: Apollo Hospitals and others.\n
+
+
+    </string>
+
+
+    <string name="dep_intro" translatable="false">
+
+ Depression is a mood disorder that involves a persistent feeling of sadness and loss of interest. It is different from the mood fluctuations that people regularly experience as a part of life.
+Major life events, such as bereavement or the loss of a job, can lead to depression. However, doctors only consider feelings of grief to be part of depression if they persist.
+Depression is an ongoing problem, not a passing one. It consists of episodes during which the symptoms last for at least 2 weeks. Depression can last for several weeks, months, or years.
+
+    </string>
+
+    <string name="dep_sign" translatable="false">
+•	a depressed mood.\n
+•	reduced interest or pleasure in activities once enjoyed.\n
+•	a loss of sexual desire.\n
+•	changes in appetite.\n
+•	unintentional weight loss or gain.\n
+•	sleeping too much or too little.\n
+•	agitation, restlessness, and pacing up and down.\n
+•	slowed movement and speech.\n
+•	fatigue or loss of energy.\n
+•	feelings of worthlessness or guilt.\n
+•	difficulty thinking, concentrating, or making decisions.\n
+•	recurrent thoughts of death or suicide, or an attempt at suicide.\n
+
+    </string>
+
+    <string name="dep_ca" translatable="false">•	genetic features.\n
+•	changes in the brain’s neurotransmitter levels.\n
+•	environmental factors.\n
+•	psychological and social factors.\n
+•	additional conditions, such as bipolar disorder.\n
+
+
+    </string>
+
+    <string name="dep_tre" translatable="false">
+Psychotherapy may help a person manage their symptoms of depression.\n
+Depression is treatable, and managing symptoms usually involves three components:\n
+Support: This can range from discussing practical solutions and possible causes to educating family members.\n
+Psychotherapy: Also known as talking therapy, some options include one-to-one counseling and cognitive behavioral therapy (CBT).\n
+Drug treatment: A doctor may prescribe antidepressants.
+
+    </string>
+
+
+    <string name="bip_intro" translatable="false">
+Bipolar disorder, formerly called manic depression, is a mental health condition that causes extreme mood swings that include emotional highs (mania or hypomania) and lows (depression).
+When you become depressed, you may feel sad or hopeless and lose interest or pleasure in most activities. When your mood shifts to mania or hypomania (less extreme than mania), you may feel euphoric, full of energy or unusually irritable. These mood swings can affect sleep, energy, activity, judgment, behavior and the ability to think clearly.\n
+•	Abnormally upbeat, jumpy or wired.\n
+•	Increased activity, energy or agitation.\n
+•	Exaggerated sense of well-being and self-confidence (euphoria).\n
+•	Decreased need for sleep.\n
+•	Unusual talkativeness.\n
+•	Racing thoughts.\n
+•	Distractibility.\n
+•	Poor decision-making — for example, going on buying sprees, taking sexual risks or making foolish investments.\n
+
+
+    </string>
+
+    <string name="bip_sign">
+
+•	Abnormally upbeat, jumpy or wired.\n
+•	Increased activity, energy or agitation.\n
+•	Exaggerated sense of well-being and self-confidence (euphoria).\n
+•	Decreased need for sleep.\n
+•	Unusual talkativeness.\n
+•	Racing thoughts.\n
+•	Distractibility.\n
+•	Poor decision-making — for example, going on buying sprees, taking sexual risks or making foolish investments.\n
+
+
+
+
+
+    </string>
+
+    <string name="bip_ca">•  impaired judgment.\n
+•  feeing “wired”.\n
+•  a sense of distraction or boredom.\n
+•  missing work or school, or underperforming.\n
+•  thinking they can “do anything”.\n
+•  belief that nothing is wrong.\n
+•  being extremely forthcoming, sometimes aggressively so.\n
+•  likelihood of engaging in risky behavior.\n
+
+
+    </string>
+
+    <string name="bip_tre">Lithium carbonate is the most commonly prescribed long-term drug to treat long-term episodes of depression.\n and mania or hypomania.\n Patients usually take lithium for at least 6 months.
+It is essential for the patient to follow the doctor’s instructions about when and how to take their medication in order for the drugs to work.\n
+Hospitalization is less common now than in the past. However, temporary hospitalization may be advisable if there is a risk of the patient harming themselves or others.
+Electroconvulsive therapy (ECT) may help if other treatments are not effective.\n
+Keeping up a regular routine with a healthy diet, enough sleep, and regular exercise can help the person maintain stability.
+
+
+    </string>
+
+
+    <string name="sch_intro">
+Schizophrenia is a mental disorder that usually appears in late adolescence or early adulthood. Characterized by delusions, hallucinations, and other cognitive difficulties, schizophrenia can often be a lifelong struggle.
+
+Schizophrenia most commonly strikes between the ages of 16 and 30, and males tend to show symptoms at a slightly younger age than females. In many cases, the disorder develops so slowly that the individual does not know that they have had it for many years. However, in other cases, it can strike suddenly and develop quickly.
+
+
+    </string>
+
+    <string name="sch_sign">•	Delusions – the patient displays false beliefs, which can take many forms, such as delusions of persecution, or delusions of grandeur. They may feel others are attempting to control them remotely. Or, they may think they have extraordinary powers and abilities.\n
+•	Hallucinations – hearing voices is much more common than seeing, feeling, tasting, or smelling things which are not there, however, people with schizophrenia may experience a wide range of hallucinations.\n
+•	Thought disorder – the person may jump from one subject to another for no logical reason. The speaker may be hard to follow or erratic.
+
+
+    </string>
+
+    <string name="sch_ca">•	Delusions – the patient displays false beliefs, which can take many forms, such as delusions of persecution, or delusions of grandeur. They may feel others are attempting to control them remotely. Or, they may think they have extraordinary powers and abilities.
+\n•	Hallucinations – hearing voices is much more common than seeing, feeling, tasting, or smelling things which are not there, however, people with schizophrenia may experience a wide range of hallucinations.
+\n•	Thought disorder – the person may jump from one subject to another for no logical reason. The speaker may be hard to follow or erratic.
+
+
+    </string>
+
+    <string name="sch_tre">
+Treatments that are recommended for schizophrenia include:\n
+•	cognitive behavioural therapy (CBT).\n
+•	medication.\n
+•	family intervention.\n
+•	arts therapies.\n
+The National Institute for Health and Care Excellence (NICE) – the organisation that produces guidelines on best practice in health care – recommends treating schizophrenia and psychosis with a combination of talking treatments and antipsychotic medication while you are unwell.
+You can read the full guidelines on the NICE website, including a list of questions you might want to ask about your diagnosis and treatment.
+
+
+    </string>
+
+
+    <string name="rec_intro">Hypocalcemia, a low level of calcium in the blood can result in tetany – uncontrolled muscle spasms. Dental problems can also arise. An X-ray or radiograph of an advanced sufferer from rickets
+        tends to present in a classic way: the bowed legs (outward curve of long bone of the legs) and a deformed chest.
+
+    </string>
+
+    <string name="rec_sign">pain or tenderness in the bones of the arms, legs, pelvis, or spine.\n
+stunted growth and short stature.\n
+•	bone fractures.\n
+•	muscle cramps.\n
+•	teeth deformities, such as: delayed tooth formation. holes in the enamel.\n
+•	skeletal deformities.\n
+    </string>
+
+    <string name="rec_cau"> The most common cause of rickets is a lack of vitamin D or calcium in a children diet.\n
+        Both are essential for children to develop strong and healthy bones. Sources of vitamin D are.\n
+        sunlight your skin produces vitamin D when it is exposed to the sun, and we get most of our vitamin D this way.
+
+    </string>
+
+    <string name="rec_tre">Treatment for rickets focuses on replacing the missing vitamin or mineral in the body. This will eliminate most of the symptoms associated with rickets. If your child has a vitamin D deficiency, your doctor will likely want them to increase their exposure to sunlight, if possible.
+        They will also encourage them to consume food products high in vitamin D, such as fish, liver, milk, and eggs.
+
+    </string>
+
+
+    <string name="io_intro">
+Iodine deficiency is a lack of the trace element iodine, an essential nutrient in the diet. It may result in metabolic problems such as goiter, sometimes as an endemic goiter as well as cretinism due to untreated congenital hypothyroidism,
+        which results in developmental delays and other health problems.
+
+    </string>
+
+    <string name="io_sign">
+        Iodine deficiency is a lack of the trace element iodine, an essential nutrient in the diet.
+        It may result in metabolic problems such as goiter, sometimes as an endemic goiter as well as cretinism due to untreated congenital hypothyroidism,
+        which results in developmental delays and other health problems.
+
+
+    </string>
+
+    <string name="io_cau">Iodine deficiency is a lack of the trace element iodine, an essential nutrient in the diet. It may result in metabolic problems such as goiter, sometimes as an endemic goiter as well as cretinism due to untreated congenital hypothyroidism,
+        which results in developmental delays and other health problems.
+
+    </string>
+
+    <string name="io_tre"> Iodine deficiency is treated by ingestion of iodine salts, such as found in food supplements.\n
+        Mild cases may be treated by using iodized salt in daily food consumption,
+        or drinking more milk, or eating egg yolks, and saltwater fish.
+
+    </string>
+
+
+    <string name="iron_intro">
+        Iron deficiency occurs when the body does not have enough of the mineral iron.
+        This leads to abnormally low levels of red blood cells.If your body does not have enough hemoglobin,
+        your tissues and muscles would not get enough oxygen and be able to work effectively.
+        This leads to a condition called anemia.
+    </string>
+
+    <string name="iron_sign">
+
+•  general fatigue.\n
+•  weakness.\n
+•  pale skin.\n
+•  shortness of breath.\n
+•  dizziness.\n
+•  strange cravings to eat items that aren’t food, such as dirt, ice, or clay.\n
+•  a tingling or crawling feeling in the legs.\n
+
+
+
+    </string>
+
+    <string name="iron_cau">
+
+        Common causes of iron deficiency include inadequate iron intake due to poor diet or restrictive diets,
+        inflammatory bowel disease, increased requirements during pregnancy and blood loss through heavy periods or internal bleeding.
+
+    </string>
+
+    <string name="iron_tre">
+
+         Treatment for iron-deficiency anemia will depend on its cause and severity. Treatments may include iron supplements, procedures, surgery, and dietary changes.
+        Severe iron-deficiency anemia may require intravenous (IV) iron therapy or a blood transfusion.
+
+    </string>
+
+
+    <string name="zink_intro">
+
+Zinc deficiency is characterized by growth retardation, loss of appetite, and impaired immune function. In more severe cases, zinc deficiency causes hair loss,
+        diarrhea, delayed sexual maturation, impotence, hypogonadism in males, and eye and skin lesions.
+    </string>
+
+    <string name="zink_sign">
+        Zinc deficiency is characterized by growth retardation, loss of appetite, and impaired immune function.\n
+        In more severe cases, zinc deficiency causes hair loss.\n
+        diarrhea, delayed sexual maturation, impotence, hypogonadism in males, and eye and skin lesions.
+
+
+    </string>
+
+    <string name="zink_cau">
+        Zinc deficiency in humans is caused by reduced dietary intake, inadequate absorption, increased loss, or increased body system utilization.
+        The most common cause is reduced dietary intake.
+
+    </string>
+
+    <string name="zink_tre">
+        Mild zinc deficiency should be treated with zinc supplementation at two to three times the recommended dietary allowance (RDA),
+        whereas moderate to severe deficiency can be treated at four to five times the RDA. 40,41 Treatment should last for six months.
+
+    </string>
+
+
+    <string name="ac_intro">Ever wondered why you were trembling before your exam, or why your palms got sweaty before that job interview? These anxious feelings are a natural way for the body to prepare itself for an important event. You would have also noticed how you started to calm down once the event was under way; you started to breathe easier and your heart stopped thumping.
+        Such an anxiety actually helps us perform better as it makes us more alert.
+
+    </string>
+
+    <string name="ac_sign">
+        •	Whiteheads (closed plugged pores).\n
+•	Blackheads (open plugged pores).\n
+•	Small red, tender bumps (papules).\n
+•	Pimples (pustules), which are papules with pus at their tips.\n
+•	Large, solid, painful lumps beneath the surface of the skin (nodules).\n
+•	Painful, pus-filled lumps beneath the surface of the skin (cystic lesions).\n
+
+
+    </string>
+
+    <string name="ac_cau">
+        Four main factors cause acne:\n
+•	Excess oil production.\n
+•	Hair follicles clogged by oil and dead skin cells.\n
+•	Bacteria.\n
+•	Excess activity of a type of hormone (androgens).
+
+
+
+    </string>
+
+    <string name="ac_tre">
+        Diet:\n
+Tea-tree oil:\n
+Treating moderate to severe acne.\n
+A skin specialist, or dermatologist, can treat more severe cases.\n
+Medications :\n
+Anti-inflammatory, Vitamin A derivative, Antibiotics and Topical antiseptic.\n
+Self-care:\n
+Benzoyl peroxide / Salicylic acid and Antibacterial soap.
+
+
+
+    </string>
+
+
+    <string name="car_intro">
+
+A carbuncle is a red, swollen, and painful cluster of boils that are connected to each other under the skin. A boil (or furuncle) is an infection of a hair follicle that has
+        a small collection of pus (called an abscess) under the skin.
+    </string>
+
+    <string name="car_sign">
+
+        •	itching before the lump appears.\n
+•	bodily aches.\n
+•	fatigue.\n
+•	fever and chills.\n
+•	skin crustiness or oozing.\n
+
+
+    </string>
+
+
+    <string name="car_cau">
+
+
+        Most boils are caused by Staphylococcus aureus, a type of bacterium commonly found on the skin and inside the nose. A bump forms as pus collects under the skin.
+        Boils sometimes develop at sites where the skin has been broken by a small injury or an insect bite, which gives the bacteria easy entry.
+
+    </string>
+
+    <string name="car_tre">
+        Your doctor will use one or more of the following medical treatments to heal your carbuncle:\n
+•	Antibiotics. These are taken orally or applied to your skin.\n
+•	Pain relievers. Over-the-counter medications are typically sufficient.\n
+•	Antibacterial soaps. These may be suggested as part of your daily cleaning regimen.\n
+•	Surgery. Your doctor may drain deep or large carbuncles with a scalpel or needle.\n
+You should never try to drain a carbuncle yourself. There’s a risk that you’ll spread the infection. You could also end up infecting your bloodstream.\n
+
+
+
+
+    </string>
+
+
+    <string name="pso_intro">
+Psoriasis is a common skin condition that speeds up the life cycle of skin cells. It causes cells to build up rapidly on the surface of the skin.\n The extra skin cells form scales and red patches that are itchy and sometimes painful.
+Psoriasis is a chronic disease that often comes and goes. The main goal of treatment is to stop the skin cells from growing so quickly.
+
+
+    </string>
+
+    <string name="pso_sign">
+•	Red patches of skin covered with thick, silvery scales.\n
+•	Small scaling spots (commonly seen in children).\n
+•	Dry, cracked skin that may bleed.\n
+•	Itching, burning or soreness.\n
+•	Thickened, pitted or ridged nails.\n
+•	Swollen and stiff joints.\n
+
+    </string>
+
+    <string name="pso_cau">
+        •	Infections, such as strep throat or skin infections.\n
+•	Injury to the skin, such as a cut or scrape, a bug bite, or a severe sunburn.\n
+•	Stress.\n
+•	Smoking.\n
+•	Heavy alcohol consumption.\n
+
+
+
+    </string>
+
+    <string name="pso_tre">
+Treatment consists of skin care :\n
+Treatment aims to remove scales and stop skin cells from growing so quickly. \nTopical ointments, light therapy and medication can offer relief.
+Medical procedure:\n
+Photodynamic therapy
+Self-care.\n
+Stress management, Petroleum jelly, Coal tar extract, Light therapy, Ultraviolet light therapy and Moisturizer\n
+Medications.\n
+Steroid, Vitamin A derivative, Anti-inflammatory, Immunosuppressive drug and Vitamin.\n
+Specialists:\n
+Rheumatologist, Primary Care Provider (PCP) and Dermatologist.
+
+
+
+    </string>
+
+
+    <string name="viti_intro">
+
+Vitiligo (vit-ih-LIE-go) is a disease that causes the loss of skin color in blotches. The extent and rate of color loss from vitiligo is unpredictable. It can affect the skin on any part of your body. It may also affect hair and the inside of the mouth.
+Normally, the color of hair and skin is determined by melanin. Vitiligo occurs when the cells that produce melanin die or stop functioning.
+
+    </string>
+
+    <string name="viti_sign">
+•	Patchy loss of skin color
+•	Premature whitening or graying of the hair on your scalp, eyelashes, eyebrows or beard.\n
+•	Loss of color in the tissues that line the inside of your mouth and nose (mucous membranes).\n
+•	Loss of or change in color of the inner layer of the eyeball (retina).\n
+Vitiligo can start at any age, but often appears before age 20.\n
+
+    </string>
+
+    <string name="viti_cau">
+
+•	A disorder in which your immune system attacks and destroys the melanocytes in the skin.\n
+•	Family history (heredity).\n
+•	A trigger event, such as sunburn, stress or exposure to industrial chemicals.\n
+
+    </string>
+
+    <string name="viti_tre">
+Treatment consists of steroids:\n
+Treatment may improve the appearance of the skin but doesn\'t cure the disease.\n
+Self-care.\n
+Covermark topical, Dermablend topical, Sunblock and Ultraviolet light therapy.\n
+Medical procedure.\n
+Photodynamic therapy.\n
+Medications.\n
+Steroid and Immunosuppressive drug.\n
+Specialists.\n
+Primary Care Provider (PCP) and Dermatologist.\n
+
+
+    </string>
+
+
+    <string name="mal_intro">
+When you think of the most deadly creature in the world, your instinct is probably to imagine a shark, bear, crocodile, or some other massive animal with big claws or huge teeth. In fact, when it comes to killing people, the most deadly animal in the world is a tiny insect: the mosquito! Unlike other dangerous creatures,
+        mosquitoes do their deadly work by spreading diseases - one of the worst of these is malaria.
+
+    </string>
+
+    <string name="mal_sign">
+•  shaking chills that can range from moderate to severe.\n
+•  high fever.\n
+•  profuse sweating.\n
+•  headache.\n
+•  nausea.\n
+•  vomiting.\n
+•  abdominal pain.\n
+•  diarrhea.
+
+
+    </string>
+
+    <string name="mal_cau">
+
+Malaria is caused by the Plasmodium parasite. The parasite can be spread to humans through the bites of infected mosquitoes.
+        There are many different types of plasmodium parasite, but only 5 types cause malaria in humans.
+    </string>
+
+    <string name="mal_tre">
+Malaria can be a life-threatening condition,\n especially if you’re infected with the parasite P.\n falciparum. Treatment for the disease is typically provided in a hospital. Your doctor will prescribe medications based on the type of parasite that you have.
+In some instances, the medication prescribed may not clear the infection because of parasite resistance to drugs. \nIf this occurs, your doctor may need to use more than one medication or change medications altogether to treat your condition.
+
+
+    </string>
+
+
+    <string name="chigu_intro">
+
+Chikungunya is a viral disease transmitted to humans by infected mosquitoes.\n
+        It causes fever and severe joint pain. Other symptoms include muscle pain, headache, nausea, fatigue and rash.
+    </string>
+
+    <string name="chigu_sign">
+    •	Most people infected with chikungunya virus will develop some symptoms.\n
+    •	Symptoms usually begin 3–7 days after being bitten by an infected mosquito.\n
+    •	The most common symptoms are fever and joint pain.\n
+    •	Other symptoms may include headache, muscle pain, joint swelling, or rash.\n
+    </string>
+
+
+    <string name="chigu_cau">
+
+Incidentally, both Dengue and Chikungunya are caused by Aedes aegypti and Aedes albopictus mosquitoes, two species that are playing havoc in the country.
+        It is transmitted from one person to another with the bite of the female specie of the mosquito.
+    </string>
+
+    <string name="chigu_tre">
+
+•	There is no vaccine to prevent or medicine to treat chikungunya virus.\n
+•	Treat the symptoms:\n
+o	Get plenty of rest.\n
+o	Drink fluids to prevent dehydration.\n
+o	Take medicine such as acetaminophen (Tylenol®) or paracetamol to reduce fever and pain.\n
+o	Do not take aspirin and other non-steroidal anti-inflammatory drugs.\n(NSAIDS until dengue can be ruled out to reduce the risk of bleeding).\n
+o	If you are taking medicine for another medical condition, talk to your healthcare provider before taking additional medication.
+
+
+
+    </string>
+
+
+    <string name="pne_intro">
+
+It  is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli.\n
+        The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.
+    </string>
+
+    <string name="pne_sign">
+
+        •	coughing that may produce phlegm (mucus).\n
+•	fever.\n
+•	sweating or chills\n
+•	shortness of breath that happens while doing normal activities or even while resting.\n
+•	chest pain that’s worse when you breathe or cough.\n
+•	feelings of tiredness or fatigue.\n
+•	loss of appetite.\n
+•	nausea or vomiting.\n
+•	headaches.\n
+
+    </string>
+
+    <string name="pne_cau">
+Pneumonia is a lung disease characterized by inflammation of the airspaces in the lungs, most commonly due to an infection. Pneumonia may be caused by viral infections, bacterial infections, or fungi; less frequently by other causes.
+        The most common bacterial type that causes pneumonia is Streptococcus pneumoniae.
+
+    </string>
+
+    <string name="pne_tre">
+
+•	Bacterial types of pneumonia are usually treated with antibiotics.\n
+•	Viral types of pneumonia are usually treated with rest and plenty of fluids. Antiviral medications can be used in influenza.\n
+•	Fungal types of pneumonia are usually treated with antifungal medications.\n
+Doctors commonly prescribe over-the-counter (OTC) medications to help manage the symptoms of pneumonia. These include treatments for reducing fever, reducing aches and pains, and suppressing coughs.\n
+
+
+
+    </string>
+
+
+    <string name="ye_intro">
+
+Yellow fever is an acute viral haemorrhagic disease transmitted by infected mosquitoes. The "yellow" in the name refers to the jaundice that affects some patients.
+        The virus is endemic in tropical areas of Africa and Central and South America.\n
+    </string>
+
+    <string name="ye_sign">
+
+        •	headaches.\n
+•	muscle aches.\n
+•	joint aches.\n
+•	chills.\n
+•	fever.\n
+
+
+    </string>
+
+    <string name="ye_cau">
+
+The Flavivirus causes yellow fever, and it’s transmitted when an infected mosquito bites you. Mosquitoes become infected with the virus when they bite an infected human or monkey.
+        The disease cannot be spread from one person to another.
+    </string>
+
+    <string name="ye_tre">
+
+•  getting enough fluids, possibly through your veins.\n
+•  getting oxygen.\n
+•  maintaining a healthy blood pressure.\n
+•  getting blood transfusions.\n
+•  having dialysis if you experience kidney failure.\n
+
+
+
+    </string>
+
+
+    <string name="corona_intro">Corona viruses are a group of related RNA viruses that cause diseases in mammals and birds.\n
+        In humans and birds, they cause respiratory tract infections that can range from mild to lethal.\n
+        Mild illnesses in humans include some cases of the common cold
+        (which is also caused by other viruses, predominantly, while more lethal varieties can cause SARS, MERS, and COVID-19.\n
+        In cows and pigs they cause diarrhea, while in mice they cause hepatitis.
+    </string>
+
+    <string name="corona_cause">
+        When people with COVID-19 breathe out or cough,
+        they expel tiny droplets that contain the virus.\n
+        These droplets can enter the mouth or nose of someone without the virus, causing an infection to occur.
+        The most common way that this illness spreads is through close contact with someone who has the infection.
+        Close contact is within around 6 feetTrusted Source.
+</string>
+
+
+    <string name="corona_symptoms">
+        Signs and symptoms of corona virus disease 2019 (COVID-19) may appear two to 14 days after exposure.
+        This time after exposure and before having symptoms is called the incubation period. Common signs and symptoms can include-
+
+• Fever\n
+• Cough\n
+• Tiredness\n
+•Shortness of breath or difficulty breathing\n
+•Muscle aches\n
+•Chills\n
+•Sore throat\n
+•Runny nose\n
+•Headache\n
+•Chest pain\n
+•Pink eye (conjunctivitis)\n
+•Nausea\n
+•Vomiting\n
+•Diarrhea\n
+•Rash
+
+</string>
+
+    <string name="corona_tre">
+        The virus that causes COVID-19 spreads easily among people, and more continues to be discovered over time about how it spreads.
+        Data has shown that it spreads mainly from person to person among those in close contact (within about 6 feet, or 2 meters).
+        The virus spreads by respiratory droplets released when someone with the virus coughs, sneezes, breathes, sings or talks.
+        These droplets can be inhaled or land in the mouth, nose or eyes of a person nearby.
+        In some situations, the COVID-19 virus can spread by a person being exposed to small droplets
+        or aerosols that stay in the air for several
+        minutes or hours called airborne transmission. It is not yet known how common it is for the virus to spread this way.
+
+It can also spread if a person touches a surface or object with the virus on it and then touches his or her mouth,
+        nose or eyes, although this is not considered to be a main way it spreads.
+</string>
+
+
+    <string name="dengue_intro">Dengue is a mosquito-borne viral infection causing a severe flu-like illness and, sometimes causing a potentially lethal complication called severe dengue. The full life cycle of dengue fever virus involves the role of mosquito as a transmitter (or vector) and humans as the main victim and source of infection</string>
+
+
+    <string name="dengue_causes">Dengue is caused dau to four viruses:\n 1.DENV-1.\n2.DENV-2.\n,3.DENV-3\n,4.DENV-4.
+</string>
+
+    <string name="dengue_symptoms">•Sudden, high fever.\n
+•Severe headaches.\n
+•Pain behind the eyes.\n
+•Severe joint and muscle pain.\n
+•Fatigue.\n
+•Nausea.\n
+•Vomiting.\n
+</string>
+
+    <string name="dengue_treatment">1.Medication\n
+    2.Stay hydrated.\n
+    3.Hygiene.\n
+    </string>
+
+    <string name="chick_intro">Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with varicella zoster virus (VZV). The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</string>
+
+    <string name="chick_causes">Varicella zoster virus</string>
+
+    <string name="chick_symptoms">Small, itchy blisters.\n headache.\n
+</string>
+
+    <string name="chick_treatment">A cool bath with added baking soda.\n aluminum acetate (Domeboro, others).\n uncooked oatmeal or colloidal oatmeal — a finely ground oatmeal that is made for soaking.\n Calamine lotion dabbed on the spots.\n A soft, bland diet if chickenpox sores develop in the mouth.\n
+    </string>
+
+
+    <string name="rubela_intro"> Rubella, or German measles, is an infection caused by the rubella virus. Symptoms are often mild, but if infection occurs during pregnancy, it can cause severe harm to the unborn child, including deafness. Rubella is a preventable disease.This article will look at the symptoms, diagnosis, and treatment of rubella.</string>
+
+    <string name="rubela_causes">The cause of rubella is a virus thats passed from person to person.\n It can spread when an infected person coughs or sneezes, or it can spread by direct contact with an infected persons respiratory secretions, such as mucus. It can also be transmitted from pregnant women to their unborn children via the bloodstream.</string>
+
+    <string name="rubela_symptoms">•  A mild fever – from 99 F to 100 F.\n
+•  Swollen and pink-colored eyes (conjunctivitis).\n
+•  Headache.\n
+•  Swollen glands behind the ears and on the neck.\n
+•  Stuffy, runny nose.\n
+•  Cough.\n
+•  Sore joints.
+</string>
+
+    <string name="rubela_treatment">There is no specific medicine to treat rubella or make the disease go away faster. \nIn many cases, symptoms are mild. For others, mild symptoms can be managed with bed rest and medicines for fever, such as acetaminophen.\n
+If you are concerned about your symptoms or your child’s symptoms, contact your doctor.
+</string>
+
+
+    <string name="alz_intro"> Alzheimers disease is an irreversible, progressive brain disorder that slowly destroys memory and thinking skills and, eventually, the ability to carry out the simplest tasks. In most people with the disease—those with the late-onset type—symptoms first appear in their mid-60s.</string>
+
+    <string name="alz_causes"> Like all types of dementia, Alzheimer is caused by brain cell death.\n
+        It is a neu ro generative disease, which means there is progressive brain cell death that happens over time.\n
+        In a person with Alzheimers, the tissue has fewer and fewer nerve cells and connections.
+    </string>
+
+    <string name="alz_symptoms">•  Memory loss that disrupts daily life.\n
+•  Challenges in planning or solving problems.\n
+•  Difficulty completing familiar tasks.\n
+•  Confusion with time or place.\n
+•  Trouble understanding visual images and spatial relationships.\n
+•  New problems with words in speaking or writing.\n
+•  Misplacing things and losing the ability to retrace steps.\n
+    </string>
+
+    <string name="alz_treatment">Treatment consists of cognition enhancing medications.
+        gent amine  or rose dyne is approved to treat mild to moderate Alzheimer.
+        Exe lon is approved for mild to moderate Alzheimer disease. </string>
+
+
+    <string name="cancer_intro"> Cancer is the uncontrolled growth of abnormal cells in the body. Cancer develops when the bodys normal control mechanism stops working. Old cells do not die and instead grow out of control, forming new, abnormal cells. These extra cells may form a mass of tissue, called a tumor.</string>
+
+    <string name="cancer_causes">Cancer is caused by changes (mutations) to the DNA within cells.\nA number of forces can cause gene mutations, such as smoking, radiation, viruses, cancer-causing chemicals (carcinogens), obesity, hormones, chronic inflammation and a lack of exercise.</string>
+
+    <string name="cancer_symptoms">•  Fatigue.\n
+•  Lump or area of thickening that can be felt under the skin.\n
+•  Weight changes, including unintended loss or gain.\n
+•  Skin changes, such as yellowing, darkening or redness of the skin, sores that wont heal, or changes to existing moles.\n
+•  Changes in bowel or bladder habits.\n
+•  Persistent cough or trouble breathing.\n
+•  Difficulty swallowing.\n
+
+</string>
+    <string name="cancer_treatment">Cancer treatment is the use of surgery, radiation, medications and other therapies to cure a cancer, shrink a cancer or stop the progression of a cancer. Many cancer treatments exist. Depending on your particular situation, you may receive one treatment or you may receive a combination of treatments.</string>
+    <string name="cystic_intro"> Cystic fibrosis (CF) is a genetic disorder that affects mostly the lungs, but also the pancreas, liver, kidneys, and intestine. Long-term issues include difficulty breathing and coughing up mucus as a result of frequent lung infections.The condition is diagnosed by a sweat test and genetic testing.</string>
+
+    <string name="cystic_causes">Cystic fibrosis is caused by a change, or mutation, in a gene called CFTR (cystic fibrosis transmembrane conductance regulator). This gene controls the flow of salt and fluids in and out of your cells. If the CFTR gene doesnot work the way it should, a sticky mucus builds up in your body.</string>
+
+    <string name="cystic_symptoms">•Salty-tasting skin, which parents notice when they kiss their child.\n
+•Frequent coughing, wheezing, or bouts of pneumonia or sinusitis.\n
+•Difficulty breathing that keeps getting worse.\n
+•Big appetite but poor weight gain.\n
+•Bulky, smelly, greasy bowel movements.</string>
+
+    <string name="cystic_treatment">Some of the main medicines for cystic fibrosis are: antibiotics to prevent and treat chest infections. medicines to make the sticky mucus in the lungs thinner, such as dornase alfa, hypertonic saline and mannitol dry powde</string>
+    <string name="charcot_intro">Charcot–Marie–Tooth disease (CMT) is one of the hereditary motor and sensory neuropathies of the peripheral nervous system characterized by progressive loss of muscle tissue and touch sensation across various parts of the body </string>
+
+    <string name="charcot_causes">CMT is caused by mutations in genes that produce proteins involved in the structure and function of either the peripheral nerve axon or the myelin sheath. Although different proteins are abnormal in different forms of CMT disease, all of the mutations affect the normal function of the peripheral nerves.</string>
+
+
+    <string name="charcot_symptoms">•  Weakness in your legs, ankles and feet.\n
+•  Loss of muscle bulk in your legs and feet.\n
+•  High foot arches.\n
+•  Curled toes (hammertoes).\n
+•  Decreased ability to run.\n
+•  Difficulty lifting your foot at the ankle (footdrop).\n
+•  Awkward or higher than normal step.</string>
+
+    <string name="charcot_treatment">The main treatments are physiotherapy and occupational therapy. Medication may reduce pain.There is no cure for CMT, but physical therapy, occupational therapy, braces and other orthopedic devices, and even orthopedic surgery can help individuals cope with the disabling symptoms of the disease.</string>
+
+
+</resources>

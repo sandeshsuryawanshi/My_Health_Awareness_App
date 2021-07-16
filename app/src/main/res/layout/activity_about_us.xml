@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/textView9"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="34dp"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/physico"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="9dp" />
+
+        <Button
+            android:id="@+id/phybtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:layout_below="@+id/imageView3"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="10dp"
+            android:text="PHYSICOLOGDISEASES"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:padding="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView3"
+            android:layout_marginLeft="9dp"
+            android:layout_alignParentLeft="true" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/textView9"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="34dp"
+            app:srcCompat="@drawable/defi" />
+
+        <Button
+            android:id="@+id/defbtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:layout_below="@+id/imageView4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="9dp"
+            android:text="DEFICIENCY DISEASES" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:text="App Contents"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/textView9"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="34dp"
+            android:layout_marginEnd="9dp"
+            app:srcCompat="@drawable/inf"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="9dp" />
+
+        <Button
+            android:id="@+id/infbtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:layout_below="@+id/imageView5"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="9dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:text="INFECTIOUS DISEASES"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="9dp" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/phybtn"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="34dp"
+            app:srcCompat="@drawable/deg"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="9dp" />
+
+        <Button
+            android:id="@+id/degbtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:layout_below="@+id/imageView6"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="9dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:layout_marginTop="9dp"
+            android:text="DEGENERATIVE DISEASES"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="9dp" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/defbtn"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="34dp"
+            app:srcCompat="@drawable/skin" />
+
+        <Button
+            android:id="@+id/skinbtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:layout_below="@+id/imageView7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="9dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:text="SKIN DISEASES" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="104dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/infbtn"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="34dp"
+            android:layout_marginEnd="9dp"
+            app:srcCompat="@drawable/cont"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="9dp" />
+
+        <Button
+            android:id="@+id/conbtn"
+            android:layout_width="109dp"
+            android:layout_height="61dp"
+            android:layout_below="@+id/imageView8"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="9dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            android:text="CONTIGIOUS DISEASES"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="9dp" />
+
+        <Button
+            android:id="@+id/aboutbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/skinbtn"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:text="About Us"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/coronabtn"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/aboutbtn"
+            android:background="@drawable/button_background"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/white"
+            android:text="Corona Updates"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+    </RelativeLayout>
+</ScrollView>
