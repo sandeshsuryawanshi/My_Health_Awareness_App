@@ -1,6 +1,6 @@
 <h1 align="center"># My_Health_Awareness_App </h1>
 
-<h3 align="center"> This is My final year project of diploma. I have made an application which  gives information about diseases.
+<h3 align="center"> This is My final year project of diploma. I have made an application which  gives information about different types of diseases it's causes, signs and treatment tips also.
 👩‍💻📱
 
   
